@@ -1,6 +1,6 @@
 str = input ("Enter the word: ")
-l = len(str)
-p = l - 1
+c = len(str)
+p = c - 1
 index = 0
 while index < p:
     if str[index]== str [p]:
